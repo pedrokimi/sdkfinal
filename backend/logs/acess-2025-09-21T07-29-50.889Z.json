@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-09-21T07:29:50.889Z",
+  "ip": "127.0.0.1",
+  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0",
+  "sessionMeta": {
+    "referrer": "",
+    "url": "http://127.0.0.1:5176/",
+    "visibility": "visible"
+  },
+  "request": {
+    "timezoneOffset": 180,
+    "language": "pt-BR",
+    "screen": {
+      "width": 1920,
+      "height": 1080,
+      "pixelRatio": 1
+    }
+  },
+  "result": {
+    "status": "review",
+    "score": 50,
+    "reasons": [],
+    "suggestedChallenge": "OTP",
+    "challengeRequired": true,
+    "thresholds": {
+      "allow": 70,
+      "review": 50
+    },
+    "tookMs": 1,
+    "ip": "127.0.0.1"
+  },
+  "abuseIpdb": null
+}
